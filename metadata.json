@@ -1,0 +1,6 @@
+{
+  "name": "Anuario - Producción de Fotos Escolares",
+  "description": "Sistema automatizado para fotógrafos escolares: emparejamiento automático por nombre de archivo, marcos PNG transparentes, calibración visual de fotos y exportación por lotes en alta resolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
